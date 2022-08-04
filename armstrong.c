@@ -14,6 +14,7 @@ main()
 	if(temp==sum)
 	 {
 		printf("\n it is armstrong number");
+		printf("\n hello");
 		
      }
 	else
